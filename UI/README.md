@@ -1,6 +1,10 @@
 # traegisUnityUtils
-Utilities for Unity
+UI Utilities
 
-This is a repository of publicly available Utility scripts for use with Unity (mostly 2D). All scripts have been developed by Traegis Creative - https://traegis.net
+UI_Button:
+  - Multi-functional script that allows for unique hover behaviours of UI raycastable objects - including color changes, scale changes, transformations, opacity changes, sounds...etc...
+  - See script for further details
 
-Feel free to use these in personal and/or commercial projects.
+
+UI_RectTransformer:
+  - Simple script that makes use of Coroutines to handle specific movements of UI objects.
