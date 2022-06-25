@@ -1,4 +1,3 @@
-# traegisUnityUtils
 UI Utilities
 
 UI_Button:
