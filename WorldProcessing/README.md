@@ -1,7 +1,7 @@
-UI_Button:
-  - Multi-functional script that allows for unique hover behaviours of UI raycastable objects - including color changes, scale changes, transformations, opacity changes, sounds...etc...
-  - See script for further details
+WorldObjectProcessor:
+  - Simple tool used to handle loading/unloading GameObjects at runtime around a moving transform based on the rectangular bounding box for 2D worlds.
+  - Useful for open-world systems.
 
 
-UI_RectTransformer:
-  - Simple script that makes use of Coroutines to handle specific movements of UI objects.
+WorldObject:
+  - Class used by WorldObjectProcessor to keep track of objects used.
